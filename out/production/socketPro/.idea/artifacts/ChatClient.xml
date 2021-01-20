@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatClient">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatClient</output-path>
+    <root id="archive" name="socketPro.jar">
+      <element id="module-output" name="socketPro" />
+    </root>
+  </artifact>
+</component>
